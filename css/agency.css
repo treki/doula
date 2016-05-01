@@ -12,10 +12,10 @@ body {
     color: #777;
     text-indent: 20px;
 }
-.text-unmuted{
-    color:#000;
-    text-indent: 20px;
-    font-weight: bold;
+.text-timeline{
+    color:#777;
+    font-size: 12px;
+    
 }
 
 
